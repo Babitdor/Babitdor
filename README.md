@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Babitdor, student and novice developer, Currently learning a lot of skills in my field. 
-     Staring small, but planning to reach higher in my line of work.
+- 👋 Hi, I’m @Babitdor, student and novice developer, Currently in the process of learning a lot of skills in my field. 
+     Starting small, but planning to reach higher in my line of work.
      
 
 - 📫 How to reach me babitdorbryan14@gmail.com
