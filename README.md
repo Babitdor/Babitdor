@@ -2,7 +2,7 @@
      Starting small, but planning to reach higher in my line of work.
      
 
-# 📫 How to reach me babitdorbryan14@gmail.com
+ 📫 How to reach me babitdorbryan14@gmail.com
 
 <!---
 Babitdor/Babitdor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
