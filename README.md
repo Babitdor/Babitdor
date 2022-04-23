@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Babitdor, student and novice developer, Currently in the process of learning a lot of skills in my field. 
+##👋 Hi, I’m @Babitdor, student and novice developer, Currently in the process of learning a lot of skills in my field. 
      
  ## Starting small, but planning to reach higher in my line of work.
      
