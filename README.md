@@ -1,4 +1,3 @@
-![](https://github-readme-stats.vercel.app/api?username=Babitdor&count_private=true&show_icons=true&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Babitdor&theme=vue)
 
 ## -👋 Hi, I’m @Babitdor, student and novice developer.
