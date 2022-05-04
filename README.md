@@ -6,7 +6,7 @@
 
 ## -📫 How to reach me babitdorbryan14@gmail.com
 
-![State](https://github-readme-stats.vercel.app/api?username={Babitdor})
+![State](https://github-readme-stats.vercel.app/api?username={username})
 
 
 <!---
