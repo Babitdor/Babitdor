@@ -6,7 +6,7 @@
 
 ## -📫 How to reach me babitdorbryan14@gmail.com
 
-<img src="{https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue}" />
+<img src="{https://activity-graph.herokuapp.com/graph?username={username}&theme=minimal}" />
 
 
 <!---
