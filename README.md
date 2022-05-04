@@ -6,6 +6,7 @@
 
 ## -📫 How to reach me babitdorbryan14@gmail.com
 
+![](https://github-readme-stats.vercel.app/api?username=Babitdor&count_private=true&show_icons=true&theme=radical)
 
 <!---
 Babitdor/Babitdor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
