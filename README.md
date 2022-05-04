@@ -6,7 +6,7 @@
 
 ## -📫 How to reach me babitdorbryan14@gmail.com
 
-![State](https://github-readme-stats.vercel.app/api?username={username})
+![State](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue)
 
 
 <!---
