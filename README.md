@@ -1,5 +1,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Babitdor&count_private=true&show_icons=true&theme=radical)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Babitdor&theme=vue)
 
 ## -👋 Hi, I’m @Babitdor, student and novice developer.
 ## -📜 Currently in the process of learning a lot of skills in my field. 
