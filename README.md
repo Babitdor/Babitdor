@@ -8,7 +8,7 @@
 
 ## -📫 How to reach me babitdorbryan14@gmail.com
 
-#Skills
+# Skills
 
 
 <!---
