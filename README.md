@@ -6,8 +6,6 @@
 
 ## -📫 How to reach me babitdorbryan14@gmail.com
 
-<img src="{https://activity-graph.herokuapp.com/graph?username={username}&theme=minimal}" />
-
 
 <!---
 Babitdor/Babitdor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
