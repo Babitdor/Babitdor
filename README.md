@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-Hello, I'm Babitdor<br><br>🚀 Student & Aspiring AI Engineer/Developer<br>📚 Lifelong Self-Learner<br>🤖 Fine-tuning language models & teaching machines to think<br>💻 Python coder on a mission to automate the world<br>🔍 Always curious, always experimenting<br>🌐 Believer in AI for good and smarter solutions<br><br>
+Hello, I'm Babitdor<br><br>🚀 Student & Aspiring AI Engineer/Developer<br>📚 Lifelong Self-Learner<br>🤖 Fine-tuning language models & teaching machines to think<br>💻 Passionate coder on a mission to automate the world<br>🔍 Always curious, always experimenting<br>🌐 Believer in AI for good and smarter solutions<br><br>
 
 
 ## 🌐 Socials:
