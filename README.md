@@ -1,11 +1,6 @@
-
-
-
 # 💫 About Me:
 Hello, I'm Babitdor<br><br>🚀 Student & Aspiring AI Engineer/Developer<br>📚 Lifelong Self-Learner<br>🤖 Fine-tuning language models & teaching machines to think<br>💻 Passionate coder on a mission to automate the world<br>🔍 Always curious, always experimenting<br>🌐 Believer in AI for good and smarter solutions<br><br>
-
 ~ Nafi ❤️ ![status](https://img.shields.io/badge/inspired_by-her-pink) 
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_babitdor_khonglah_?igsh=MWdxd21pZ25wc3pwaQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/babitdor-kayang-khonglah-aa1b68207?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbP2crMTiRCGvUlwZiiL68g%3D%3D) 
