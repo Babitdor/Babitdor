@@ -1,17 +1,81 @@
-# 💫 About Me:
-Hello, I'm Babitdor<br><br>🚀 AI Engineer/Developer<br>📚 Lifelong Self-Learner<br>🤖 Fine-tuning language models & teaching machines to think<br>💻 Passionate coder on a mission to automate the world<br>🔍 Always curious, always experimenting<br>🌐 Believer in AI for good and smarter solutions<br><br>
+<img src="assets/hero.svg" width="1200" alt="Babitdor Kayang Khonglah, AI engineer based in Erlangen, Germany: agent harnesses and LLM fine-tuning.">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_babitdor_khonglah_?igsh=MWdxd21pZ25wc3pwaQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/babitdor-kayang-khonglah-aa1b68207?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbP2crMTiRCGvUlwZiiL68g%3D%3D) 
+## 01 · WHOAMI
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Babitdor&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Babitdor&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Babitdor&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+I build **agent harnesses**: the orchestration, retrieval, tooling and evaluation
+layers that decide whether an LLM demo becomes a system that survives production.
 
----
-[![](https://visitcount.itsvg.in/api?id=Babitdor&icon=0&color=0)](https://visitcount.itsvg.in)
+By day I build AI agents at **Siemens Digital Industries Software**, where the
+interesting part is everything the demo never shows you: latency, token budgets,
+failing retries, and retrieval that quietly returns the wrong thing. Alongside
+that I am finishing an **M.Sc. in Artificial Intelligence** at FAU Erlangen-Nürnberg,
+with a research affiliation at the **Institute FAPS**, using fine-tuned LLMs and
+multi-agent workflows to generate and validate **SysML v2** models.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **Working with:** LangGraph · Deep Agents · RAG · PyTorch · Ollama · Docker
+- **Certified:** LangChain Academy *Project: Deep Agents* · Hugging Face *AI Agents Fundamentals*
+- **Portfolio:** [babitdorkhonglah.netlify.app](https://babitdorkhonglah.netlify.app), terminal-themed, command palette included
+
+## 02 · SELECTED WORK
+
+| Project | What it does | Built with |
+| :-- | :-- | :-- |
+| **[NovaCode](https://github.com/Babitdor/NovaCode)** | Terminal AI coding assistant: deep-agent loop, Textual TUI, subagents, skills, two-tier memory, headless mode for CI | `Python` `LangGraph` `Textual` |
+| **[SysML v2 Agentic Workflow](https://github.com/Babitdor/SysMLv2-CodeGeneration_AgenticWorkflow)** | Multi-agent pipeline that drafts, validates and self-corrects SysML v2 models against a vector knowledge base | `Python` `LangGraph` `Qdrant` |
+| **[Ada, AI Security Operator](https://github.com/Babitdor/Ada-CybSecure)** | Autonomous security agent: terminal workstation, sandboxed tool runs, live attack-graph memory, approval gates | `Python` `Rust` `Docker` |
+| **[InferenceEngine](https://github.com/Babitdor/InferenceEngine)** | Local llama.cpp server behind an OpenAI-compatible API, with Prometheus metrics | `Python` `llama.cpp` |
+| **[SAM 2.1 Sidewalk Segmentation](https://github.com/Babitdor/FineTune-Script-SAM2.1)** | Fine-tuning SAM 2.1 on multi-class masks to improve the official SENSATION dataset | `PyTorch` |
+| **[SysML v2 models](https://huggingface.co/babit14)** | Three fine-tuned SysML v2 models published for local use across Ollama and Hugging Face | `LoRA` `Ollama` |
+
+Master's thesis: a **9-agent MBSE harness** that turns requirements into validated
+SysML v2 artifacts end to end, resolving 50+ dependency DAG nodes across all four
+RFLP phases on a Docker sandbox backend.
+
+## 03 · TOOLKIT
+
+**AI & AGENTS**
+
+![LangChain](https://img.shields.io/badge/LangChain-262E2B?style=flat-square&logo=langchain&logoColor=FFB454) ![LangGraph](https://img.shields.io/badge/LangGraph-262E2B?style=flat-square&logo=langgraph&logoColor=FFB454) ![MCP](https://img.shields.io/badge/MCP-262E2B?style=flat-square&logo=modelcontextprotocol&logoColor=FFB454) ![Google ADK](https://img.shields.io/badge/Google%20ADK-262E2B?style=flat-square&logo=google&logoColor=FFB454) ![CrewAI](https://img.shields.io/badge/CrewAI-262E2B?style=flat-square&logo=crewai&logoColor=FFB454) ![Anthropic](https://img.shields.io/badge/Anthropic-262E2B?style=flat-square&logo=anthropic&logoColor=FFB454) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-262E2B?style=flat-square&logo=huggingface&logoColor=FFB454)
+
+**LANGUAGES**
+
+![Python](https://img.shields.io/badge/Python-262E2B?style=flat-square&logo=python&logoColor=FFB454) ![TypeScript](https://img.shields.io/badge/TypeScript-262E2B?style=flat-square&logo=typescript&logoColor=FFB454) ![JavaScript](https://img.shields.io/badge/JavaScript-262E2B?style=flat-square&logo=javascript&logoColor=FFB454) ![Rust](https://img.shields.io/badge/Rust-262E2B?style=flat-square&logo=rust&logoColor=FFB454) ![C++](https://img.shields.io/badge/C%2B%2B-262E2B?style=flat-square&logo=cplusplus&logoColor=FFB454) ![C](https://img.shields.io/badge/C-262E2B?style=flat-square&logo=c&logoColor=FFB454)
+
+**MODELS & LOCAL AI**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-262E2B?style=flat-square&logo=pytorch&logoColor=FFB454) ![Ollama](https://img.shields.io/badge/Ollama-262E2B?style=flat-square&logo=ollama&logoColor=FFB454) ![LM Studio](https://img.shields.io/badge/LM%20Studio-262E2B?style=flat-square&logo=lmstudio&logoColor=FFB454) ![LoRA / QLoRA](https://img.shields.io/badge/LoRA%20%2F%20QLoRA-262E2B?style=flat-square)
+
+**DATA & VECTOR**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-262E2B?style=flat-square&logo=postgresql&logoColor=FFB454) ![MongoDB](https://img.shields.io/badge/MongoDB-262E2B?style=flat-square&logo=mongodb&logoColor=FFB454) ![Qdrant](https://img.shields.io/badge/Qdrant-262E2B?style=flat-square&logo=qdrant&logoColor=FFB454)
+
+**FRONTEND & APPS**
+
+![React](https://img.shields.io/badge/React-262E2B?style=flat-square&logo=react&logoColor=FFB454) ![Next.js](https://img.shields.io/badge/Next.js-262E2B?style=flat-square&logo=nextdotjs&logoColor=FFB454) ![Streamlit](https://img.shields.io/badge/Streamlit-262E2B?style=flat-square&logo=streamlit&logoColor=FFB454) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-262E2B?style=flat-square&logo=tailwindcss&logoColor=FFB454) ![Node.js](https://img.shields.io/badge/Node.js-262E2B?style=flat-square&logo=nodedotjs&logoColor=FFB454)
+
+**INFRA & OPS**
+
+![Docker](https://img.shields.io/badge/Docker-262E2B?style=flat-square&logo=docker&logoColor=FFB454) ![n8n](https://img.shields.io/badge/n8n-262E2B?style=flat-square&logo=n8n&logoColor=FFB454) ![Git](https://img.shields.io/badge/Git-262E2B?style=flat-square&logo=git&logoColor=FFB454) ![GitLab](https://img.shields.io/badge/GitLab-262E2B?style=flat-square&logo=gitlab&logoColor=FFB454) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-262E2B?style=flat-square&logo=googlecloud&logoColor=FFB454) ![AWS](https://img.shields.io/badge/AWS-262E2B?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-262E2B?style=flat-square) ![Netlify](https://img.shields.io/badge/Netlify-262E2B?style=flat-square&logo=netlify&logoColor=FFB454)
+
+The full 39-entry stack map lives on the [portfolio](https://babitdorkhonglah.netlify.app).
+
+## 04 · TELEMETRY
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Babitdor&show_icons=true&hide_border=true&title_color=FFB454&icon_color=FFB454&text_color=9AA39C&bg_color=0D100E&card_width=420" alt="Babitdor's GitHub stats" height="195"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Babitdor&layout=compact&langs_count=6&hide_border=true&title_color=FFB454&text_color=9AA39C&bg_color=0D100E" alt="Most used languages" height="195"></td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Babitdor&hide_border=true&background=0D100E&stroke=262E2B&ring=FFB454&fire=FFB454&sideLabels=9AA39C&dates=6C766F&sideNums=EEF1EA&currStreakNum=EEF1EA&currStreakLabel=FFB454" alt="Contribution streak">
+</p>
+
+## 05 · ELSEWHERE
+
+[![Email](https://img.shields.io/badge/babitdorbryan14@gmail.com-262E2B?style=flat-square&logo=gmail&logoColor=FFB454)](mailto:babitdorbryan14@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-262E2B?style=flat-square&logo=netlify&logoColor=FFB454)](https://babitdorkhonglah.netlify.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-262E2B?style=flat-square)](https://www.linkedin.com/in/babitdor-kayang-khonglah-aa1b68207) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-262E2B?style=flat-square&logo=huggingface&logoColor=FFB454)](https://huggingface.co/babit14) [![Ollama](https://img.shields.io/badge/Ollama-262E2B?style=flat-square&logo=ollama&logoColor=FFB454)](https://ollama.com/Babitdor) [![Instagram](https://img.shields.io/badge/Instagram-262E2B?style=flat-square&logo=instagram&logoColor=FFB454)](https://www.instagram.com/_babitdor_khonglah_/)
+
+<img src="assets/footer.svg" width="1200" alt="github.com/Babitdor · ML · GenAI · agentic AI · Erlangen, Germany">
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Babitdor&label=PROFILE+VIEWS&color=FFB454&style=flat-square" alt="Profile views"></p>
