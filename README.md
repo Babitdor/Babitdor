@@ -25,7 +25,7 @@ multi-agent workflows to generate and validate **SysML v2** models.
 | **[Ada, AI Security Operator](https://github.com/Babitdor/Ada-CybSecure)** | Autonomous security agent: terminal workstation, sandboxed tool runs, live attack-graph memory, approval gates | `Python` `Rust` `Docker` |
 | **[InferenceEngine](https://github.com/Babitdor/InferenceEngine)** | Local llama.cpp server behind an OpenAI-compatible API, with Prometheus metrics | `Python` `llama.cpp` |
 | **[SAM 2.1 Sidewalk Segmentation](https://github.com/Babitdor/FineTune-Script-SAM2.1)** | Fine-tuning SAM 2.1 on multi-class masks to improve the official SENSATION dataset | `PyTorch` |
-| **[SysML v2 models](https://huggingface.co/babit14)** | Three fine-tuned SysML v2 models published for local use across Ollama and Hugging Face | `LoRA` `Ollama` |
+| **[SysML v2 models on Ollama](https://ollama.com/Babitdor)** | Three fine-tuned Qwen models (2.5-Coder, 3-8B, 3-4B) that generate and reason about SysML v2 | `LoRA` `Ollama` |
 
 Master's thesis: a **9-agent MBSE harness** that turns requirements into validated
 SysML v2 artifacts end to end, resolving 50+ dependency DAG nodes across all four
