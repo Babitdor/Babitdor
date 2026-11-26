@@ -21,6 +21,7 @@ multi-agent workflows to generate and validate **SysML v2** models.
 | Project | What it does | Built with |
 | :-- | :-- | :-- |
 | **[NovaCode](https://github.com/Babitdor/NovaCode)** | Terminal AI coding assistant: deep-agent loop, Textual TUI, subagents, skills, two-tier memory, headless mode for CI | `Python` `LangGraph` `Textual` |
+| **[NovaDesk](https://github.com/Babitdor/NovaDesk)** | Desktop workspace for running any AI coding agent side-by-side: multi-session panes, unified orchestration, shared memory, workflow automation | `Python` `LangGraph` `Textual` |
 | **[SysML v2 Agentic Workflow](https://github.com/Babitdor/SysMLv2-CodeGeneration_AgenticWorkflow)** | Multi-agent pipeline that drafts, validates and self-corrects SysML v2 models against a vector knowledge base | `Python` `LangGraph` `Qdrant` |
 | **[Ada, AI Security Operator](https://github.com/Babitdor/Ada-CybSecure)** | Autonomous security agent: terminal workstation, sandboxed tool runs, live attack-graph memory, approval gates | `Python` `Rust` `Docker` |
 | **[InferenceEngine](https://github.com/Babitdor/InferenceEngine)** | Local llama.cpp server behind an OpenAI-compatible API, with Prometheus metrics | `Python` `llama.cpp` |
